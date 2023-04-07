@@ -255,8 +255,7 @@ export const data = {
                 "darkambient",
                 "atmospheric",
                 "ambient",
-                "HKE",
-                "trap"
+                "HKE"
             ]
         },
         {
@@ -452,8 +451,7 @@ export const data = {
             "description":"Classic vaportrap record. I like this more than Blank Banshee 0/1.",
             "bandcamp":"https://vaperror.bandcamp.com/album/mana-pool-2",
             "tags": [
-                "vaporwave",
-                "trap"
+                "vaporwave"
             ]
         },
         {

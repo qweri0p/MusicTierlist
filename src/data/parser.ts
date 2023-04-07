@@ -10,7 +10,7 @@ interface album{
     tags:string[]
 }
 
-type possibletags = "all"|"vaporwave"|"signalwave"|"dreampunk"|"NUWRLD"|"experimental"|"ambient"|"atmospheric"|"barberbeats"|"chillwave"|"latenitelofi"|"darkambient"|"HKE"|"trap"
+export type possibletags = "all"|"vaporwave"|"signalwave"|"dreampunk"|"NUWRLD"|"experimental"|"ambient"|"atmospheric"|"barberbeats"|"chillwave"|"latenitelofi"|"darkambient"|"HKE"
 
 type datatemplate = {s: album[]; a: album[]; b: album[]; c: album[]; d: album[]; e: album[]; }
 
@@ -49,7 +49,7 @@ export function parseTags(tag:possibletags, data: datatemplate) {
 
 const test = (() => console.log(parseTags("HKE", data)))
 
-export const tags = ["all", "vaporwave","signalwave","dreampunk","NUWRLD","experimental","ambient","atmospheric","barberbeats","chillwave","latenitelofi","darkambient","HKE","trap"]
+export const tags = ["all", "vaporwave","signalwave","dreampunk","NUWRLD","experimental","ambient","atmospheric","barberbeats","chillwave","latenitelofi","darkambient","HKE"]
 
 
 

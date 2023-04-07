@@ -1,9 +1,8 @@
 <script lang="ts">
-  import Tier from "../../lib/Tier.svelte";
+  import Tier from "$lib/Tier.svelte";
   type listoftiers = "s"|"a"|"b"|"c"|"d"|"e"
   const tiers:listoftiers[] = ['s', 'a', 'b', 'c', 'd', 'e'];
   export let data;
-
 </script>
 
 <main>
