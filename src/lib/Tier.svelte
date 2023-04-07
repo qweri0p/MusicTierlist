@@ -6,13 +6,6 @@
     export let tier:tiers;
     import { parseTags } from "../data/parser";
     const rawlist = parseTags(tag, data)
-    interface album{
-        name:string;
-        artist:string;
-        image:string;
-        bandcamp:string;
-        description:string;
-    }
     const list = rawlist[tier]
 </script>
 

@@ -63,7 +63,7 @@
         grid-row: 3 / 4;
         grid-column: 1 / 3;
         font-size: 3vmin;
-        overflow-wrap: break-word;
+        white-space: normal;
     }
     #item-1 {
         grid-row: 2 / 3;

@@ -7,12 +7,16 @@ interface album{
     image:string;
     bandcamp:string;
     description:string;
-    tags?:string[]
+    tags:string[]
 }
+
+type possibletags = "all"|"vaporwave"|"signalwave"|"dreampunk"|"NUWRLD"|"experimental"|"ambient"|"atmospheric"|"barberbeats"|"chillwave"|"latenitelofi"|"darkambient"|"HKE"|"trap"
+
 
 type datatemplate = {s: album[]; a: album[]; b: album[]; c: album[]; d: album[]; e: album[]; }
 
-export function parseTags(tag:string, data: datatemplate) {
+export function parseTags(tag:possibletags, data: datatemplate) {
+    //when tag = "all" return unmodified data
     if (tag === "all") return data
     let result:datatemplate = {
         "s":[],
@@ -30,11 +34,11 @@ export function parseTags(tag:string, data: datatemplate) {
         Then fill it with objects and then move all of that into a single object like the "data" object.
         Lastly clear the tempdata array. And ofc check if it fits with the data template type.
         */
-        for (let j = 0; j < data[tiers[i]].length; j++) {
-            if (data[tiers[i]][j].tags?.includes(tag)) {
-                tempdata.push(data[tiers[i]][j])
+        data[tiers[i]].forEach(element => {
+            if (element.tags.includes(tag)) {
+                tempdata.push(element)
             }
-        }
+        });
 
         //Now the albums are in the tempdata array. Now get them into the result object.
         tempdata.forEach(element => {
@@ -44,6 +48,10 @@ export function parseTags(tag:string, data: datatemplate) {
     return result
 }
 
-export const logger = (() => console.log(parseTags("HKE", data)))
+const test = (() => console.log(parseTags("HKE", data)))
+
+export const tags = ["all", "vaporwave","signalwave","dreampunk","NUWRLD","experimental","ambient","atmospheric","barberbeats","chillwave","latenitelofi","darkambient","HKE","trap"]
+
+
 
 
