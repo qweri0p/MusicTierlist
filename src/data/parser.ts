@@ -12,7 +12,6 @@ interface album{
 
 type possibletags = "all"|"vaporwave"|"signalwave"|"dreampunk"|"NUWRLD"|"experimental"|"ambient"|"atmospheric"|"barberbeats"|"chillwave"|"latenitelofi"|"darkambient"|"HKE"|"trap"
 
-
 type datatemplate = {s: album[]; a: album[]; b: album[]; c: album[]; d: album[]; e: album[]; }
 
 export function parseTags(tag:possibletags, data: datatemplate) {
