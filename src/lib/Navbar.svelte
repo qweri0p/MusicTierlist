@@ -35,6 +35,8 @@
         background-color: #1b1b1b;
         height:max-content;
         padding: 2vmin;
+        position: fixed;
+        z-index: 69420;
     }
     li {
         padding: 0.5vmin;
