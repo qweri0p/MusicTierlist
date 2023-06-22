@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { tags } from "../data/parser";
+    import { tags } from "$lib/data/parser";
     import { fly, fade } from "svelte/transition";
     let visible = false;
 </script>
