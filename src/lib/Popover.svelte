@@ -28,7 +28,6 @@
                     opacity: ${t * o};
                     backdrop-filter: blur(${50*t});
                     transform: ${transform} translate(${(1 - t) * x}px, ${(1 - t) * y}px);
-
                 `
             }
         }
@@ -36,13 +35,13 @@
 </script>
 
 {#if visible}
-<main id="container" in:blurFade="{{duration:500}}" out:blurFade="{{duration:500}}">
+<div id="container" in:blurFade="{{duration:500}}" out:blurFade="{{duration:500}}">
     <span id="item-4"><i>{data.name}</i><br><span id="artist">by "{data.artist}"</span></span>
     <img id="item-1" src="{data.image}" alt="{data.name} cover" on:keydown={() => {console.log("what?")}} on:click={() => {visible = false}}>
     <a href="{data.bandcamp}" target="_blank" rel="noopener noreferrer" id="item-3">Bandcamp</a>
     <button id="item-2" on:click={() => {visible = false}}>X</button>
     <p id="item-0">{data.description}</p>
-</main>
+</div>
 {/if}
 
 <style>

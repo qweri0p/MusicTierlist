@@ -1,14 +1,8 @@
 <script lang="ts">
-    import Popover from "./Popover.svelte";
+    import Popover from "$lib/Popover.svelte";
+    import type { album } from "$lib/data/parser";
     let visible = false
     export let data:album;
-    interface album{
-        name:string;
-        artist:string;
-        image:string;
-        bandcamp:string;
-        description:string;
-    }
 </script>
 
 <img src="{data.image}" alt="{data.name}" on:keydown={() => {console.log("what?")}} on:click={() => {visible = true}}>
