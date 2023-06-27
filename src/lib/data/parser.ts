@@ -8,7 +8,9 @@ export interface album{
     tags:string[];
     realartists:string[];
 }
-
+//TODO: This is dumb and a bad solution.
+//I should write a private function to create this list.
+//Simple forEach() thing should work
 export const tags = ["all","dreampunk","club","dreamcatalogue","ambient","atmospheric","garage","slushwave","dnb","flap"]
 export const artists = ["all","telepath","nmesh","haloacid","hke","iiteration","inertiaeyes","sangam","remember", "purelife", "qmdx", "aut2m", "shima33"]
 
@@ -38,4 +40,4 @@ export function parseArtists(artist:string, data: album[]) {
     return result
 }
 
-// export const test = (() => console.log(parseTags("club", data)))
+// export const test = (() => console.log(parseTags("ambient", data)))

@@ -5,6 +5,7 @@
 
 <h1>WOW THIS FUCKING SUCKS</h1>
 <h3>ignore the hamburger menu please🥺</h3>
+<h1>TODO: Fix this fucking burger menu.  I hate it.</h1>
 
 {#each gotos as thing}
     <button on:click={() => goto(thing)}>{thing}</button>
