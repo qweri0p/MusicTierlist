@@ -1,517 +1,467 @@
 [
     {
-        "name": "Dream Sequins®",
-        "artist":"Nmesh",
-        "image": "https://f4.bcbits.com/img/a2617555620_10.jpg",
-        "description": "This is that record that got me into vaporwave, and it is the very best.",
-        "bandcamp": "https://nmesh.bandcamp.com/album/dream-sequins",
-        "tags": [
-            "vaporwave",
-            "signalwave",
-            "dreampunk"
-        ]
-    },
-    {
-        "name": "Heavy Black Heart",
-        "artist": "death's dynamic shroud",
-        "image": "https://f4.bcbits.com/img/a2631671759_10.jpg",
-        "description": "Every track could have been a single. They're all fantastic.",
-        "bandcamp": "https://deathsdynamicshroud.bandcamp.com/album/heavy-black-heart-3",
-        "tags": [
-            "vaporwave",
-            "NUWRLD",
-            "experimental"
-        ]
-    },
-    {
-        "name":"ロ​ス​ト​エ​デ​ン​へ​の​パ​ス (The Path To Lost Eden)",
-        "artist":"Nmesh and t e l e p a t h テレパシー能力者",
-        "image":"https://f4.bcbits.com/img/a0799429785_10.jpg",
-        "description":"Not a single track is a miss. Both artists put their best works ever on here.",
-        "bandcamp":"https://geometriclullaby.bandcamp.com/album/--37",
+        "name": "Upgrade YOURSLF",
+        "artist": "HKE x Sangam",
+        "image": "https://f4.bcbits.com/img/a2292403554_10.jpg",
+        "description": "idk why the description talks about anime but this is a fucking banger\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/upgrade-yourslf",
         "tags": [
             "dreampunk",
+            "dreamcatalogue",
             "ambient"
+        ],
+        "realartists": [
+            "hke",
+            "sangam"
         ]
     },
     {
-        "name":"Rain Temple",
-        "artist":"2814",
-        "image":"https://f4.bcbits.com/img/a0901283591_10.jpg",
-        "description":"Oh my goodness, this is fucking amazing. Eyes of the Temple is the peak of vaporwave/dreampunk.",
-        "bandcamp":"https://dreamcatalogue.bandcamp.com/album/rain-temple",
+        "name": "L​.​Y​.​F",
+        "artist": "Hong Kong Express",
+        "image": "https://f4.bcbits.com/img/a3072806146_10.jpg",
+        "description": "peak. i have nothing to add.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/l-y-f",
         "tags": [
             "dreampunk",
+            "dreamcatalogue",
             "ambient",
-            "atmospheric",
-            "HKE"
+            "atmospheric"
+        ],
+        "realartists": [
+            "hke",
+            ""
         ]
     },
     {
-        "name": "I'll Try Living Like This",
-        "artist":"death's dynamic shroud.wmv",
-        "image":"https://f4.bcbits.com/img/a0102733853_10.jpg",
-        "description": "Haunting, soothing, terrifying and sad at the same time. Nothing will ever be similar to this masterpiece.",
-        "bandcamp": "https://deathsdynamicshroud.bandcamp.com/album/ill-try-living-like-this",
+        "name": "Inertia Eyes",
+        "artist": "Inertia Eyes",
+        "image": "https://f4.bcbits.com/img/a2230431271_10.jpg",
+        "description": "Nicol putting on some more bangers as usual.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/inertia-eyes",
         "tags": [
-            "vaporwave",
-            "NUWRLD",
-            "experimental"
+            "club",
+            "dreamcatalogue",
+            "dreampunk"
+        ],
+        "realartists": [
+            "inertiaeyes",
+            ""
         ]
     },
     {
-        "name": "失​わ​れ​た​時​REGRET (REGRET WHEN IT WAS LOST)",
-        "artist": "death's dynamic shroud.wmv",
-        "image": "https://f4.bcbits.com/img/a1431540382_10.jpg",
-        "description": "Absolutely gorgeous, and incredibly sad :(",
-        "bandcamp": "https://deathsdynamicshroud.bandcamp.com/album/regret",
+        "name": "You Forget This",
+        "artist": "Sangam",
+        "image": "https://f4.bcbits.com/img/a2755728874_10.jpg",
+        "description": "sad and melancholic masterpiece\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/you-forget-this",
         "tags": [
-            "vaporwave",
-            "NUWRLD",
             "ambient",
-            "experimental"
+            "dreamcatalogue",
+            "atmospheric"
+        ],
+        "realartists": [
+            "sangam",
+            ""
         ]
     },
     {
-        "name":"The City Is My Friend",
-        "artist":"Remember",
-        "image":"https://f4.bcbits.com/img/a1106418967_10.jpg",
-        "description":"Masterpiece. Definitely better than Birth of a new Day.",
-        "bandcamp":"https://dreamcatalogue.bandcamp.com/album/the-city-is-my-friend",
+        "name": "ロ​ス​ト​エ​デ​ン​へ​の​パ​ス (Path To Lost Eden)",
+        "artist": "Nmesh and t e l e p a t h テレパシー能力者",
+        "image": "https://f4.bcbits.com/img/a2129077846_10.jpg",
+        "description": "absolute bliss.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/--24",
         "tags": [
-            "dreampunk",
             "ambient",
-            "experimental"
+            "dreamcatalogue",
+            "atmospheric"
+        ],
+        "realartists": [
+            "nmesh",
+            "telepath"
         ]
     },
     {
-        "name": "Nu.wav Hallucinations",
-        "artist":"Nmesh",
-        "image": "https://f4.bcbits.com/img/a2049145046_10.jpg",
-        "description": "Great, but Dream Sequins® is better. I own this on vinyl.",
-        "bandcamp": "https://nmesh.bandcamp.com/album/nu-wav-hallucinations",
+        "name": "真​の​愛 (True Love)",
+        "artist": "チェスマスター",
+        "image": "https://f4.bcbits.com/img/a0379214571_10.jpg",
+        "description": "soothing and sad. one of chesumasuta's best.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/--4",
         "tags": [
-            "vaporwave",
-            "signalwave"
-        ]
-    },
-    {
-        "name":"L.Y.F",
-        "artist":"Hong Kong Express",
-        "image":"https://f4.bcbits.com/img/a3072806146_10.jpg",
-        "description":"I fucking love this one. The music is so beautiful it's insane. The vinyl is also extremely good.",
-        "bandcamp":"https://dreamcatalogue.bandcamp.com/album/l-y-f",
-        "tags": [
-            "dreampunk",
             "ambient",
-            "atmospheric",
-            "HKE"
+            "dreamcatalogue"
+        ],
+        "realartists": [
+            "hke",
+            ""
         ]
     },
     {
-        "name":"Pharma",
-        "artist":"Nmesh",
-        "image":"https://f4.bcbits.com/img/a3973099227_10.jpg",
-        "description":"Words cannot describe what this record is. Just know it's good.",
-        "bandcamp":"https://orangemilkrecords.bandcamp.com/album/pharma",
+        "name": "New Tokyo Blue Mood",
+        "artist": "Subaeris",
+        "image": "https://f4.bcbits.com/img/a3328384680_10.jpg",
+        "description": "i picture a brain in a glass tube being transported through a megacity with an automated drone. incredible.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/--5",
         "tags": [
-            "experimental"
+            "garage",
+            "dreamcatalogue"
+        ],
+        "realartists": [
+            "hke",
+            ""
         ]
     },
     {
-        "name": "Faith in Persona",
-        "artist": "death's dynamic shroud.wmv",
-        "image": "https://f4.bcbits.com/img/a3041794312_10.jpg",
-        "description": "Fucking awesome. The worst track on here is still great.",
-        "bandcamp": "https://deathsdynamicshroud.bandcamp.com/album/faith-in-persona",
+        "name": "Charming Devil",
+        "artist": "HKE",
+        "image": "https://f4.bcbits.com/img/a0258224435_10.jpg",
+        "description": "hke's first experiment with vocals. just so nice.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/--9",
         "tags": [
-            "vaporwave",
-            "NUWRLD",
-            "experimental"
+            "flap",
+            "dreamcatalogue"
+        ],
+        "realartists": [
+            "hke",
+            ""
         ]
     },
     {
         "name": "新​し​い​日​の​誕​生 (Birth Of A New Day)",
-        "artist":"2814",
-        "image":"https://f4.bcbits.com/img/a4099353330_10.jpg",
-        "description":"Slightly overrated, still gorgeous. So happy to own on vinyl!",
+        "artist": "2814",
+        "image": "https://f4.bcbits.com/img/a4099353330_10.jpg",
+        "description": "the classic, the legend, the masterpiece\n",
         "bandcamp": "https://dreamcatalogue.bandcamp.com/album/--18",
         "tags": [
-            "dreampunk",
             "ambient",
-            "atmospheric",
-            "HKE"
+            "dreamcatalogue",
+            "dreampunk",
+            "atmospheric"
+        ],
+        "realartists": [
+            "hke",
+            "telepath"
         ]
     },
     {
-        "name":"REMNANTS",
-        "artist":"Oblique Occasions",
-        "image":"https://f4.bcbits.com/img/a3144491188_10.jpg",
-        "description":"My god this record is nice. Bimodal is my favorite Oblique Occasions track.",
-        "bandcamp":"https://obliqueoccasions.bandcamp.com/album/remnants",
-        "tags": [
-            "barberbeats",
-            "atmosperic",
-            "chillwave"
-        ]
-    },
-    {
-        "name": "NEWS AT 11",
-        "artist": "猫 シ Corp.",
-        "image": "https://f4.bcbits.com/img/a1964377693_10.jpg",
-        "description":"The best from catsystemcorp. This is a very special concept album.",
-        "bandcamp":"https://catsystemcorp.bandcamp.com/album/news-at-11-remastered",
-        "tags": [
-            "vaporwave",
-            "signalwave",
-            "latenitelofi"
-        ]
-    },
-    {
-        "name":"大​理​石​の​フ​ァ​ン​タ​ジ​ー (Marble Fantasy)",
-        "artist":"Haircuts for Men",
-        "image":"https://f4.bcbits.com/img/a2921127091_10.jpg",
-        "description":"Idk man this record slaps so fucking hard.",
-        "bandcamp":"https://haircutsformen.bandcamp.com/album/--3",
-        "tags": [
-            "barberbeats",
-            "vaporwave",
-            "atmospheric",
-            "chillwave"
-        ]
-    },
-    {
-        "name":"痛​み​の​永​遠 (Eternity of Pain)",
-        "artist":"Macroblank",
-        "image":"https://f4.bcbits.com/img/a1957926096_10.jpg",
-        "description":"The best that macroblank ever put out. So happy I have the vinyl.",
-        "bandcamp":"https://macroblank.bandcamp.com/album/--21",
-        "tags": [
-            "barberbeats",
-            "vaporwave"
-        ]
-    },
-    {
-        "name":"ルートバックホーム (Route Back Home)",
-        "artist":"Remember",
-        "image":"https://f4.bcbits.com/img/a3675313495_10.jpg",
-        "description":"Just great. I love how it slowly builds up the music throughout the entire record.",
-        "bandcamp":"https://dreamcatalogue.bandcamp.com/album/--22",
+        "name": "ア​ン​タ​ラ​通​信 (Antara Communication)",
+        "artist": "t e l e p a t h テレパシー能力者",
+        "image": "https://f4.bcbits.com/img/a2437765163_10.jpg",
+        "description": "still one of the best slushwave records ever. \n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/--19",
         "tags": [
             "dreampunk",
-            "ambient",
-            "atmospheric"
-        ]
-    },
-    {
-        "name":"ibis valley",
-        "artist":"Macroblank",
-        "image":"https://f4.bcbits.com/img/a1623583478_10.jpg",
-        "description":"Excellent. Barber Beats/Late Night Lofi is a very good combination.",
-        "bandcamp":"https://macroblank.bandcamp.com/album/ibis-valley",
-        "tags": [
-            "barberbeats",
-            "chillwave",
-            "latenightlofi",
-            "atmospheric"
-        ]
-    },
-    {
-        "name":"Sable Covenant",
-        "artist":"Oblique Occasions",
-        "image":"https://f4.bcbits.com/img/a0409101075_10.jpg",
-        "description":"Just some very nice and chill barber beats. Nothing new is best track.",
-        "bandcamp":"https://obliqueoccasions.bandcamp.com/album/sable-covenant",
-        "tags": [
-            "barberbeats",
-            "chillwave"
-        ]
-    },
-    {
-        "name":"孤​独​な​人​々​の​た​め​の​内​省​的​な​音​楽",
-        "artist":"Monodrone",
-        "image":"https://f4.bcbits.com/img/a0607810724_10.jpg",
-        "description":"(Introspective Music For Lonely People). Overdose in paradise is amazing. The rest is also quality.",
-        "bandcamp":"https://i-am-monodrone.bandcamp.com/album/--3",
-        "tags": [
-            "barberbeats",
-            "chillwave",
-            "vaporwave",
-            "atmospheric"
-        ]
-    },
-    {
-        "name":"Cytherea Somniare",
-        "artist": "DARKPYRAMID",
-        "image":"https://f4.bcbits.com/img/a1814808848_10.jpg",
-        "description": "By far my favorite DARKPYRAMID record. It just has a very special mood.",
-        "bandcamp": "https://noproblematapes.bandcamp.com/album/cytherea-somniare",
-        "tags": [
-            "darkambient",
-            "atmospheric",
-            "ambient",
-            "HKE"
-        ]
-    },
-    {
-        "name":"Darklife",
-        "artist":"death's dynamic shroud",
-        "image":"https://f4.bcbits.com/img/a2954521948_10.jpg",
-        "description":"So experimental it's impossible to tell what it is. Still not the best dds record though.",
-        "bandcamp":"https://deathsdynamicshroud.bandcamp.com/album/darklife-2",
-        "tags": [
-            "NUWRLD",
-            "experimental"
-        ]
-    },
-    {
-        "name": "絶​望​に​負​け​た (Lost in Despair)",
-        "artist": "Macroblank",
-        "image": "https://f4.bcbits.com/img/a2195809660_10.jpg",
-        "description": "This mood is so amazing. None of the tracks slap but are still hits.",
-        "bandcamp": "https://macroblank.bandcamp.com/album/-",
-        "tags": [
-            "barberbeats",
-            "vaporwave",
-            "atmospheric"
-        ]
-    },
-    {
-        "name":"200% Electronica",
-        "artist":"ESPRIT 空想",
-        "image":"https://f4.bcbits.com/img/a2618300680_10.jpg",
-        "description":"Actually really good. Criminally underrated.",
-        "bandcamp":"https://espritfantasy.bandcamp.com/album/200-electronica",
-        "tags": ["vaporwave"]
-    },
-    {
-        "name": "Endless",
-        "artist": "Zuwe",
-        "image": "https://f4.bcbits.com/img/a2890080053_10.jpg",
-        "description": "Very surreal, great endlessly chill backstreet vibes.",
-        "bandcamp": "https://seikomart.bandcamp.com/album/endless",
-        "tags": [
-            "dreampunk",
-            "ambient",
-            "atmospheric"
-        ]
-    },
-    {
-        "name":"Good Morning America",
-        "artist":"猫 シ Corp.",
-        "image":"https://f4.bcbits.com/img/a1579131859_10.jpg",
-        "description":"Almost as good as NEWS AT 11. Still very special.",
-        "bandcamp":"https://catsystemcorp.bandcamp.com/album/good-morning-america",
-        "tags": [
-            "vaporwave",
-            "signalwave",
-            "latenitelofi"
-        ]
-    },
-    {
-        "name":"SH40",
-        "artist":"Zuwe",
-        "image":"https://f4.bcbits.com/img/a0674824177_10.jpg",
-        "description":"That first track is perfect. The rest of the record is good, but New Surroundings is the peak.",
-        "bandcamp":"https://hiraeth-records.bandcamp.com/album/sh40",
-        "tags": [
-            "dreampunk",
-            "ambient",
-            "atmospheric"
-        ]
-    },
-    {
-        "name":"A Deep Dive Into The Conflicted and Scared Psyche",
-        "artist":"Remember",
-        "image":"https://f4.bcbits.com/img/a3190189480_10.jpg",
-        "description":"Idk, this record isn't that good, but I keep coming back to it. It is definitely very special.",
-        "bandcamp":"https://remember48.bandcamp.com/album/a-deep-dive-into-the-conflicted-and-scared-psyche",
-        "tags": [
-            "dreampunk",
-            "atmospheric",
-            "experimental"
-        ]
-    },
-        {
-        "name":"terminally online",
-        "artist":"Oblique Occasions",
-        "image":"https://f4.bcbits.com/img/a0820125049_10.jpg",
-        "description":"Some heavy bangers on side A, some slight misses on side B.",
-        "bandcamp":"https://obliqueoccasions.bandcamp.com/album/terminally-online",
-        "tags": [
-            "barberbeats",
-            "chillwave"
-        ]
-    },
-    {
-        "name":"Perfect World",
-        "artist":"Blackbird",
-        "image":"https://f4.bcbits.com/img/a2901810953_10.jpg",
-        "description":"Pretty good. It isn't as immersive as other dreampunk records, but still, good. I also own the tape.",
-        "bandcamp":"https://f0x3r-fennec.bandcamp.com/album/perfect-world",
-        "tags": [
-            "dreampunk",
-            "ambient",
-            "darkambient",
-            "atmospheric"
-        ]
-    },
-    {
-        "name":"超​越​愛 (Beyond Love)",
-        "artist":"テレヴァペ",
-        "image":"https://f4.bcbits.com/img/a1675322589_10.jpg",
-        "description":"I dig it. It's a little samy, but still good.",
-        "bandcamp":"https://plus100.bandcamp.com/album/-",
-        "tags": [
-            "ambient",
-            "experimental",
-            "vaporwave"
-        ]
-    },
-    {
-        "name": "Seasoning The Jazz V.1",
-        "artist": "Mabisyo",
-        "image": "https://f4.bcbits.com/img/a1846653042_10.jpg",
-        "description": "Just nice. Nothing more to say about it.",
-        "bandcamp":"https://mabisyo.bandcamp.com/album/seasoning-the-jazz-v-1",
-        "tags": [
-            "barberbeats",
-            "chillwave",
-            "ambient",
-            "latenitelofi"
-        ]
-    },
-    {
-        "name": "ご​め​ん​と​言​っ​て (Say Sorry)",
-        "artist": "Macroblank",
-        "image": "https://f4.bcbits.com/img/a0578242852_10.jpg",
-        "description": "All of these cuts slap, just not as hard as other Macroblank records.",
-        "bandcamp": "https://macroblank.bandcamp.com/album/lp-3",
-        "tags": [
-            "barberbeats",
-            "chillwave"
-        ]
-    },
-    {
-        "name":"VHS LOUNGE",
-        "artist":"vcr-classique",
-        "image":"https://f4.bcbits.com/img/a0849784418_10.jpg",
-        "description":"The perfect late night lofi record for a night walk, I am sure of it.",
-        "bandcamp":"https://vcr-classique.bandcamp.com/album/vhs-lounge",
-        "tags": [
-            "vaporwave",
-            "latenitelofi",
-            "chillwave"
-        ]
-    },
-    {
-        "name":"Slide",
-        "artist":"George Clanton",
-        "image":"https://f4.bcbits.com/img/a3009101780_10.jpg",
-        "description":"Better than 100% Electronica. Not really that much to say beyond that.",
-        "bandcamp":"https://georgeclanton.bandcamp.com/album/slide",
-        "tags": [
-            "vaporwave",
-            "experimental"
-        ]
-    },
-    {
-        "name":"Anathema",
-        "artist":"Oblique Occasions",
-        "image":"https://f4.bcbits.com/img/a3309345917_10.jpg",
-        "description":"Definitly quality, just kinda forgettable. ",
-        "bandcamp":"https://obliqueoccasions.bandcamp.com/album/anathema",
-        "tags": [
-            "barberbeats",
-            "atmospheric",
-            "chillwave"
-        ]
-    },
-    {
-        "name":"100% Electronica",
-        "artist":"George Clanton",
-        "image":"https://f4.bcbits.com/img/a1506352382_10.jpg",
-        "description":"It's ok. Some tracks are excellent though. (Bleed, It makes the babies want to cry)",
-        "bandcamp":"https://georgeclanton.bandcamp.com/album/100-electronica",
-        "tags": [
-            "vaporwave"
-        ]
-    },
-    {
-        "name":"Mana Pool",
-        "artist":"VAPERROR",
-        "image":"https://f4.bcbits.com/img/a3248760326_10.jpg",
-        "description":"Classic vaportrap record. I like this more than Blank Banshee 0/1.",
-        "bandcamp":"https://vaperror.bandcamp.com/album/mana-pool-2",
-        "tags": [
-            "vaporwave"
-        ]
-    },
-    {
-        "name": "better than me",
-        "artist": "Oblique Occasions",
-        "image": "https://f4.bcbits.com/img/a0411778912_10.jpg",
-        "description": "Everything on this record is amazing. Except the last few tracks, they kinda stink.",
-        "bandcamp": "https://obliqueoccasions.bandcamp.com/album/better-than-me",
-        "tags": [
-            "barberbeats",
-            "vaporwave"
-        ]
-    },
-    {
-        "name":"Time Moved Like It Used To",
-        "artist":"Room 208 and Zuwe",
-        "image":"https://f4.bcbits.com/img/a3916438107_10.jpg",
-        "description":"A little too dubsteppy for me. The tape is gorgeous btw.",
-        "bandcamp":"https://noproblematapes.bandcamp.com/album/time-moved-like-it-used-to",
-        "tags": [
-            "dreampunk",
-            "experimental",
-            "ambient",
-            "atmospheric"
-        ]
-    },
-    {
-        "name":"virtua.zip",
-        "artist":"ESPRIT 空想",
-        "image":"https://f4.bcbits.com/img/a4042324845_10.jpg",
-        "description":"Just very short. And some cuts I simply don't like.",
-        "bandcamp":"https://espritfantasy.bandcamp.com/album/virtua-zip",
-        "tags": [
-            "vaporwave"
-        ]
-    },
-    {
-        "name":"2814",
-        "artist":"2814",
-        "image":"https://f4.bcbits.com/img/a3615920735_10.jpg",
-        "description":"It's meh. Nothing special like other 2814 records.",
-        "bandcamp":"https://dreamcatalogue.bandcamp.com/album/2814",
-        "tags": [
-            "HKE",
-            "dreampunk",
+            "dreamcatalogue",
+            "slushwave",
             "ambient"
+        ],
+        "realartists": [
+            "telepath",
+            ""
         ]
     },
     {
-        "name":"行​方​不​明 (Unknown)",
-        "artist":"Macroblank",
-        "image":"https://f4.bcbits.com/img/a2627682117_10.jpg",
-        "description":"Severly overrated. Good, just some tracks are really forgettable.",
-        "bandcamp":"https://macroblank.bandcamp.com/album/--5",
+        "name": "ル​ー​ト​バ​ッ​ク​ホ​ー​ム (Route Back Home)",
+        "artist": "Remember",
+        "image": "https://f4.bcbits.com/img/a3675313495_10.jpg",
+        "description": "buildup and payoff at it's finest\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/--22",
         "tags": [
-            "barberbeats",
-            "chillwave"
+            "dreampunk",
+            "dreamcatalogue",
+            "ambient"
+        ],
+        "realartists": [
+            "remember",
+            ""
         ]
     },
     {
-        "name": "Floral Shoppe",
-        "artist":"Macintosh Plus",
-        "image": "https://f4.bcbits.com/img/a4028863981_10.jpg",
-        "description": "Just kinda bad. It started the genre sure but it's not that great.",
-        "bandcamp": "https://vektroid.bandcamp.com/album/floral-shoppe",
+        "name": "Rain Temple",
+        "artist": "2814",
+        "image": "https://f4.bcbits.com/img/a0901283591_10.jpg",
+        "description": "best 2814 record. eyes of the temple should be enough evidence.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/rain-temple",
         "tags": [
-            "vaporwave"
+            "dreampunk",
+            "dreamcatalogue",
+            "atmospheric"
+        ],
+        "realartists": [
+            "hke",
+            "telepath"
+        ]
+    },
+    {
+        "name": "The City Is My Friend",
+        "artist": "Remember",
+        "image": "https://f4.bcbits.com/img/a1106418967_10.jpg",
+        "description": "no sinle record will ever capture the same emotion this record gave me the first time i heard it. absolute masterpiece.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/the-city-is-my-friend",
+        "tags": [
+            "dreampunk",
+            "dreamcatalogue",
+            "atmospheric",
+            "garage"
+        ],
+        "realartists": [
+            "remember",
+            ""
+        ]
+    },
+    {
+        "name": "As You Are",
+        "artist": "Shima33",
+        "image": "https://f4.bcbits.com/img/a1095055335_10.jpg",
+        "description": "no complaints. this is the best record to come out of dream catalogue in 2022, and that's an accomplishment.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/as-you-are",
+        "tags": [
+            "dreampunk",
+            "dreamcatalogue",
+            "atmospheric",
+            "ambient"
+        ],
+        "realartists": [
+            "shima33",
+            ""
+        ]
+    },
+    {
+        "name": "Museum",
+        "artist": "Shima33",
+        "image": "https://f4.bcbits.com/img/a1730057551_10.jpg",
+        "description": "masterpiece, no further comment nessecary.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/museum",
+        "tags": [
+            "ambient",
+            "dreamcatalogue",
+            "atmospheric"
+        ],
+        "realartists": [
+            "shima33",
+            ""
+        ]
+    },
+    {
+        "name": "White",
+        "artist": "White Banshee",
+        "image": "https://f4.bcbits.com/img/a3716665167_10.jpg",
+        "description": "even when flap is dead, lucid still delivers some of the best flap ever.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/white",
+        "tags": [
+            "flap",
+            "dreamcatalogue"
+        ],
+        "realartists": [
+            "hke",
+            ""
+        ]
+    },
+    {
+        "name": "Psyche Expression",
+        "artist": "AUT2M",
+        "image": "https://f4.bcbits.com/img/a0805741854_10.jpg",
+        "description": "aut2m's best work. quality is outstanding. the enlish dictionary lacks words to describe this record.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/psyche-expression",
+        "tags": [
+            "dreampunk",
+            "dreamcatalogue",
+            "ambient"
+        ],
+        "realartists": [
+            "aut2m",
+            ""
+        ]
+    },
+    {
+        "name": "Body Dares",
+        "artist": "Halo Acid",
+        "image": "https://f4.bcbits.com/img/a0079263717_10.jpg",
+        "description": "masterpiece. still listening to this one about every week. \n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/body-dares",
+        "tags": [
+            "garage",
+            "dreamcatalogue"
+        ],
+        "realartists": [
+            "haloacid",
+            ""
+        ]
+    },
+    {
+        "name": "MAIN EVENT SET",
+        "artist": "Lucid HKE",
+        "image": "https://f4.bcbits.com/img/a3815588878_10.jpg",
+        "description": "flap is dead. but this record makes me want to revive it.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/main-event-set",
+        "tags": [
+            "flap",
+            "dreamcatalogue"
+        ],
+        "realartists": [
+            "hke",
+            ""
+        ]
+    },
+    {
+        "name": "I Am Chesumasuta",
+        "artist": "チェスマスター",
+        "image": "https://f4.bcbits.com/img/a3931054379_10.jpg",
+        "description": "dark and sad, until it becomes hyper and violent. chesumasuta's best work.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/i-am-chesumasuta",
+        "tags": [
+            "dreampunk",
+            "dreamcatalogue",
+            "ambient",
+            "atmospheric"
+        ],
+        "realartists": [
+            "hke",
+            ""
+        ]
+    },
+    {
+        "name": "Forgiven",
+        "artist": "iiteration",
+        "image": "https://f4.bcbits.com/img/a3740006960_10.jpg",
+        "description": "new ukrainian producer makes a splash with one of the best records on dream catalogue in 2022. this one is another one for the list of dream catalogue masterpieces.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/forgiven",
+        "tags": [
+            "dreampunk",
+            "dreamcatalogue",
+            "ambient",
+            "atmospheric"
+        ],
+        "realartists": [
+            "iiteration",
+            ""
+        ]
+    },
+    {
+        "name": "HELL WORLD",
+        "artist": "HKE",
+        "image": "https://f4.bcbits.com/img/a3427066996_10.jpg",
+        "description": "hke's red filter aesthetic is far from dead, as demonstrated by this aoty.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/hell-world",
+        "tags": [
+            "dreampunk",
+            "dreamcatalogue"
+        ],
+        "realartists": [
+            "hke",
+            ""
+        ]
+    },
+    {
+        "name": "愛慕 ／ 悲哀 (love / sorrow)",
+        "artist": "t e l e p a t h and HKE",
+        "image": "https://f4.bcbits.com/img/a1298952177_10.jpg",
+        "description": "pure magic. transports me to another infinite world.\n",
+        "bandcamp": "https://blcr.bandcamp.com/album/--16",
+        "tags": [
+            "dreampunk",
+            "ambient",
+            "atmospheric"
+        ],
+        "realartists": [
+            "telepath",
+            "hke"
+        ]
+    },
+    {
+        "name": "Gateway ア​セ​ン​シ​ョ​ン (Gateway Ascension) ",
+        "artist": "HKE / t e l e p a t h テレパシー能力者",
+        "image": "https://f4.bcbits.com/img/a1508112300_10.jpg",
+        "description": "this is another masterpiece by the legendary duo. gateway just takes you into a spiritual experience that no other record does.\n",
+        "bandcamp": "https://purelifetapes.bandcamp.com/album/gateway",
+        "tags": [
+            "dreampunk",
+            "ambient",
+            "atmospheric"
+        ],
+        "realartists": [
+            "hke",
+            "telepath"
+        ]
+    },
+    {
+        "name": "A Deep Dive Into The Conflicted and Scared Psyche",
+        "artist": "Remember",
+        "image": "https://f4.bcbits.com/img/a3190189480_10.jpg",
+        "description": "it still amazes me how masterful this record is. not a single track on here is bad. every single track fits exactly with the mood of the record.\n",
+        "bandcamp": "https://remember48.bandcamp.com/album/a-deep-dive-into-the-conflicted-and-scared-psyche",
+        "tags": [
+            "dreampunk",
+            "ambient",
+            "atmospheric",
+            "dnb"
+        ],
+        "realartists": [
+            "remember",
+            ""
+        ]
+    },
+    {
+        "name": "小​圈​子 (small circle)",
+        "artist": "輕描淡寫",
+        "image": "https://f4.bcbits.com/img/a2023712235_10.jpg",
+        "description": "beautiful. this is up there with birth of a new day.\n",
+        "bandcamp": "https://vill4in.bandcamp.com/album/--5",
+        "tags": [
+            "dreampunk",
+            "ambient",
+            "atmospheric"
+        ],
+        "realartists": [
+            "qmdx",
+            ""
+        ]
+    },
+    {
+        "name": "Ambient Punk Vol. III",
+        "artist": "PURE LIFE",
+        "image": "https://f4.bcbits.com/img/a0481790980_10.jpg",
+        "description": "pure life does it again with yet another pure life compilation that is so exceptionally good it should be illegal.\n",
+        "bandcamp": "https://purelifetapes.bandcamp.com/album/ambient-punk-vol-iii",
+        "tags": [
+            "dreampunk",
+            "ambient",
+            "atmospheric"
+        ],
+        "realartists": [
+            "purelife",
+            ""
+        ]
+    },
+    {
+        "name": "Show Me, Enlighten Me, Love Me",
+        "artist": "Remember",
+        "image": "https://f4.bcbits.com/img/a2401287583_10.jpg",
+        "description": "remember goes back to his absense alias for this one. quite the banger.\n",
+        "bandcamp": "https://purelifetapes.bandcamp.com/album/show-me-enlighten-me-love-me",
+        "tags": [
+            "dreampunk",
+            "ambient",
+            "dnb"
+        ],
+        "realartists": [
+            "remember",
+            ""
+        ]
+    },
+    {
+        "name": "Sequence 777",
+        "artist": "HKE",
+        "image": "https://f4.bcbits.com/img/a3500300666_10.jpg",
+        "description": "sequence is the best series of records ever released. personal favorite is part 2 (heel aesthetic).\n",
+        "bandcamp": "https://hkedream.bandcamp.com/album/sequence-777",
+        "tags": [
+            "dreampunk",
+            "ambient",
+            "club"
+        ],
+        "realartists": [
+            "hke",
+            ""
         ]
     }
 ]
