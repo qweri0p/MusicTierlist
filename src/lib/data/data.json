@@ -28,8 +28,7 @@
             "atmospheric"
         ],
         "realartists": [
-            "hke",
-            ""
+            "hke"
         ]
     },
     {
@@ -41,11 +40,11 @@
         "tags": [
             "club",
             "dreamcatalogue",
+            "dance",
             "dreampunk"
         ],
         "realartists": [
-            "inertiaeyes",
-            ""
+            "inertiaeyes"
         ]
     },
     {
@@ -57,11 +56,11 @@
         "tags": [
             "ambient",
             "dreamcatalogue",
-            "atmospheric"
+            "atmospheric",
+            "melancholy"
         ],
         "realartists": [
-            "sangam",
-            ""
+            "sangam"
         ]
     },
     {
@@ -88,11 +87,11 @@
         "bandcamp": "https://dreamcatalogue.bandcamp.com/album/--4",
         "tags": [
             "ambient",
-            "dreamcatalogue"
+            "dreamcatalogue",
+            "hypnagogicpop"
         ],
         "realartists": [
-            "hke",
-            ""
+            "hke"
         ]
     },
     {
@@ -106,8 +105,7 @@
             "dreamcatalogue"
         ],
         "realartists": [
-            "hke",
-            ""
+            "hke"
         ]
     },
     {
@@ -121,8 +119,7 @@
             "dreamcatalogue"
         ],
         "realartists": [
-            "hke",
-            ""
+            "hke"
         ]
     },
     {
@@ -155,8 +152,7 @@
             "ambient"
         ],
         "realartists": [
-            "telepath",
-            ""
+            "telepath"
         ]
     },
     {
@@ -171,8 +167,7 @@
             "ambient"
         ],
         "realartists": [
-            "remember",
-            ""
+            "remember"
         ]
     },
     {
@@ -204,8 +199,7 @@
             "garage"
         ],
         "realartists": [
-            "remember",
-            ""
+            "remember"
         ]
     },
     {
@@ -221,8 +215,7 @@
             "ambient"
         ],
         "realartists": [
-            "shima33",
-            ""
+            "shima33"
         ]
     },
     {
@@ -237,8 +230,7 @@
             "atmospheric"
         ],
         "realartists": [
-            "shima33",
-            ""
+            "shima33"
         ]
     },
     {
@@ -252,8 +244,7 @@
             "dreamcatalogue"
         ],
         "realartists": [
-            "hke",
-            ""
+            "hke"
         ]
     },
     {
@@ -268,8 +259,7 @@
             "ambient"
         ],
         "realartists": [
-            "aut2m",
-            ""
+            "aut2m"
         ]
     },
     {
@@ -283,8 +273,7 @@
             "dreamcatalogue"
         ],
         "realartists": [
-            "haloacid",
-            ""
+            "haloacid"
         ]
     },
     {
@@ -298,8 +287,7 @@
             "dreamcatalogue"
         ],
         "realartists": [
-            "hke",
-            ""
+            "hke"
         ]
     },
     {
@@ -315,8 +303,7 @@
             "atmospheric"
         ],
         "realartists": [
-            "hke",
-            ""
+            "hke"
         ]
     },
     {
@@ -332,8 +319,7 @@
             "atmospheric"
         ],
         "realartists": [
-            "iiteration",
-            ""
+            "iiteration"
         ]
     },
     {
@@ -347,8 +333,7 @@
             "dreamcatalogue"
         ],
         "realartists": [
-            "hke",
-            ""
+            "hke"
         ]
     },
     {
@@ -396,8 +381,7 @@
             "dnb"
         ],
         "realartists": [
-            "remember",
-            ""
+            "remember"
         ]
     },
     {
@@ -412,8 +396,7 @@
             "atmospheric"
         ],
         "realartists": [
-            "qmdx",
-            ""
+            "qmdx"
         ]
     },
     {
@@ -428,8 +411,7 @@
             "atmospheric"
         ],
         "realartists": [
-            "purelife",
-            ""
+            "purelife"
         ]
     },
     {
@@ -444,8 +426,7 @@
             "dnb"
         ],
         "realartists": [
-            "remember",
-            ""
+            "remember"
         ]
     },
     {
@@ -460,8 +441,21 @@
             "club"
         ],
         "realartists": [
-            "hke",
-            ""
+            "hke"
+        ]
+    },
+    {
+        "name": "Wild Guide to Anywhere",
+        "artist": "Chungking Mansions",
+        "image": "https://f4.bcbits.com/img/a2670719247_10.jpg",
+        "description": "classic record by dream catalogue legend chungking mansions. \"lake\" is incredibly good.\n",
+        "bandcamp": "https://houseoftheleg.bandcamp.com/album/wild-guide-to-anywhere",
+        "tags": [
+            "dnb",
+            "dreampunk"
+        ],
+        "realartists": [
+            "chungkingmansions"
         ]
     }
 ]

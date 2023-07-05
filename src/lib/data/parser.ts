@@ -8,11 +8,35 @@ export interface album{
     tags:string[];
     realartists:string[];
 }
-//TODO: This is dumb and a bad solution.
-//I should write a private function to create this list.
-//Simple forEach() thing should work
-export const tags = ["all","dreampunk","club","dreamcatalogue","ambient","atmospheric","garage","slushwave","dnb","flap"]
-export const artists = ["all","telepath","nmesh","haloacid","hke","iiteration","inertiaeyes","sangam","remember", "purelife", "qmdx", "aut2m", "shima33"]
+
+function gettags(data:album[]) {
+    let temparray:string[] = ["all"]
+    for (let i = 0; i < data.length; i++) {
+        const element = data[i];
+        element.tags.forEach(element => {
+            if (temparray.includes(element)) return
+            else temparray.push(element)
+        });
+    }
+    return temparray
+}
+
+function getartists(data:album[]) {
+    let temparray:string[] = ["all"]
+    for (let i = 0; i < data.length; i++) {
+        const element = data[i];
+        element.realartists.forEach(element => {
+            if (temparray.includes(element)) return
+            else temparray.push(element)
+        });
+    }
+    return temparray
+}
+
+// export const test = (() => console.log(getartists(albums)))
+
+export const tags = gettags(data)
+export const artists = getartists(data)
 
 export function shuffle(a:album[]) {
     for (let i = a.length - 1; i > 0; i--) {
