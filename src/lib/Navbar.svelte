@@ -4,6 +4,8 @@
     let visible = false;
 </script>
 
+<!-- TODO: ACTUALLY MAKE THIS WORK LMAO -->
+
 <div>
     <input type="checkbox" on:click={() => visible = !visible}/>
     <span id="n1"></span>
