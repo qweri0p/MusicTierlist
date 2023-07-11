@@ -14,6 +14,5 @@
     padding: 0.5vmax;
     height: 10vmin;
     width: 100%;
-    white-space: nowrap;
     }
 </style>
