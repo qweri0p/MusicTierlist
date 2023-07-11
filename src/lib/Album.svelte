@@ -11,7 +11,7 @@
 
 <style>
     img {
-        padding: 0.5vmin;
+        padding: 0.25vmin;
         height: 12vmin;
         width: 12vmin;
         transition: ease-in-out;
