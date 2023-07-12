@@ -1,13 +1,13 @@
 <script lang="ts">
     import { goto } from "$app/navigation";
-    const gotos = ["artist", "genre"]
+    import { topics } from "$lib/data/parser";
 </script>
 
 <h1>WOW THIS FUCKING SUCKS</h1>
-<h3>ignore the hamburger menu please🥺</h3>
-<h1>TODO: Fix this fucking burger menu.  I hate it.</h1>
-<h1>ALSO TODO: Fix the fucking navbar. Best would be a total rewrite.</h1>
+<h3>TODO: Make the /genre, /artist and home pages have good buttons.</h3>
+<h3>TODO: Make the error pages not trash. Get a button to go back or smthng.</h3>
+<h3>TODO: Properly style the sidebar and make it not ridiculously long. Perhaps create dropdowns within the sidebar.</h3>
 
-{#each gotos as thing}
+{#each topics as thing}
     <button on:click={() => goto(thing)}>{thing}</button>
 {/each}

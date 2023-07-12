@@ -7,13 +7,13 @@
 
 <img src="{data.image}" alt="{data.name}" on:keydown={() => {console.log("what?")}} on:click={() => {visible = true}}>
 
-<Popover data={data} bind:visible={visible}/>
+<Popover {data} bind:visible={visible}/>
 
 <style>
     img {
         padding: 0.25vmin;
-        height: 12vmin;
-        width: 12vmin;
+        height: 14vmin;
+        width: 14vmin;
         transition: ease-in-out;
     }
     img:hover {

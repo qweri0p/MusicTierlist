@@ -40,11 +40,11 @@
 	
 	.open #middle {
         opacity: 0;
-		transition: opacity 0.3s ease-in-out;
+		transition: opacity 0.3s ease-in;
 	}
 	#middle{
 		opacity: 1;
-		transition: opacity 0.3s ease-in-out;
+		transition: opacity 0.3s ease-out;
 	}
 	
     .open #bottom {

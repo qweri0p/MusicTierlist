@@ -2,7 +2,7 @@
     import Hamburger from "$lib/sidebar/Hamburger.svelte";
     import Menu from "$lib/sidebar/Menu.svelte";
     import { fly } from "svelte/transition";
-    import { open } from "./Sidebar";
+    import { open } from "$lib/sidebar/SidebarStore";
 </script>
 
 <Hamburger bind:open={$open}/>

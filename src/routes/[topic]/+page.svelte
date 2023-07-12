@@ -6,5 +6,5 @@
 </script>
 
 {#each objects as object}
-    <button on:click={() => goto(data.params.topic+"/"+object)}>{object}</button>
+    <button on:click={() => goto("/"+data.params.topic+"/"+object)}>{object}</button>
 {/each}

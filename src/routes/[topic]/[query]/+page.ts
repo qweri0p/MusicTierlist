@@ -1,21 +1,17 @@
 import { error } from '@sveltejs/kit';
-import { topic } from '$lib/Sidebar';
 import { albums, type album, shuffle, parseArtists, artists, tags, parseTags } from "$lib/data/parser";
 
 const shuffled = shuffle(albums)
 
 export function load({params}:any) {
-    // Do routing stuff here
     let records:album[]
 
     if (params.topic === "artist"){
         if (!artists.includes(params.query)) throw error(404, "Artist '"+params.query+"' does not exist.")
         records = parseArtists(params.query, shuffled)
-        topic.set(params.topic)
     } else if (params.topic === "genre"){
         if (!tags.includes(params.query)) throw error(404, "Genre '"+params.query+"' does not exist.")
         records = parseTags(params.query, shuffled)
-        topic.set(params.topic)
     } else {
         throw error(404, "Topic "+params.topic+" not found.")
     }

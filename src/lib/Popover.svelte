@@ -1,14 +1,9 @@
 <script lang="ts">
     import { cubicOut } from 'svelte/easing'
+    import { open } from '$lib/sidebar/SidebarStore';
+    import type { album } from '$lib/data/parser';
     export let data:album;
     export let visible = false;
-    interface album{
-        name:string;
-        artist:string;
-        image:string;
-        bandcamp:string;
-        description:string;
-    }
 
     function blurFade(node: Element, {
         duration = 500,
@@ -32,16 +27,18 @@
             }
         }
     }
+
+    $: if (visible === true) {open.set(false)}
 </script>
 
 {#if visible}
-<div id="container" in:blurFade="{{duration:500}}" out:blurFade="{{duration:500}}">
-    <span id="item-4"><i>{data.name}</i><br><span id="artist">by "{data.artist}"</span></span>
-    <img id="item-1" src="{data.image}" alt="{data.name} cover" on:keydown={() => {console.log("what?")}} on:click={() => {visible = false}}>
-    <a href="{data.bandcamp}" target="_blank" rel="noopener noreferrer" id="item-3">Bandcamp</a>
-    <button id="item-2" on:click={() => {visible = false}}>X</button>
-    <p id="item-0">{data.description}</p>
-</div>
+    <div id="container" transition:blurFade="{{duration:500}}">
+        <span id="item-4"><i>{data.name}</i><br><span id="artist">by "{data.artist}"</span></span>
+        <img id="item-1" src="{data.image}" alt="{data.name} cover" on:keydown={() => {console.log("what?")}} on:click={() => {visible = false}}>
+        <a href="{data.bandcamp}" target="_blank" rel="noopener noreferrer" id="item-3">Bandcamp</a>
+        <button id="item-2" on:click={() => {visible = false}}>X</button>
+        <p id="item-0">{data.description}</p>
+    </div>
 {/if}
 
 <style>
@@ -57,6 +54,7 @@
         height: 100vmin;
         width: 1000vmin;
         backdrop-filter: blur(25px);
+        white-space: nowrap;
     }
     #item-0 {
         grid-row: 3 / 4;
