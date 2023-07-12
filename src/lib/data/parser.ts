@@ -37,6 +37,7 @@ function getartists(data:album[]) {
 
 export const tags = gettags(data)
 export const artists = getartists(data)
+export const topics = ["artist", "genre"]
 
 export function shuffle(a:album[]) {
     for (let i = a.length - 1; i > 0; i--) {

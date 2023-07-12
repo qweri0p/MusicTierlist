@@ -1,5 +1,5 @@
 <script lang="ts">
-	export let open = false
+	export let open:boolean = false
 </script>
 
 <!-- Adapted from https://dev.to/joshnuss/creating-a-sidebar-menu-in-svelte-ih2 -->

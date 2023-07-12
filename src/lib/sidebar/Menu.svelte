@@ -1,15 +1,13 @@
 <script lang="ts">
     import { artists, tags } from "$lib/data/parser";
-    type topics = "artist"|"genre"
-    export let topic:topics;
-    const options = topic==="artist" ? artists:tags;
-
+    import { topic, open } from "$lib/Sidebar";
+    const options = $topic==="artist" ? artists:tags;
 </script>
 
 <div>
     Amogus<br>
     {#each options as option}
-        <a href="{option}">{option}</a><br>
+        <a href="{option}" on:click={() =>{open.set(!$open)}}>{option}</a><br>
     {/each}
 </div>
 
