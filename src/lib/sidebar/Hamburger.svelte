@@ -31,19 +31,20 @@
         color: white;
 		z-index: 20;
         background-color: #292929;
+		padding: .5vmin;
 	}
-	
-	.open svg {
-		transform: scale(0.7)
-	}
-	
+
 	.open #top {
 		transform: translate(6px, 0px) rotate(45deg)
 	}
 	
 	.open #middle {
         opacity: 0;
-		transition: opacity 0.3s linear;
+		transition: opacity 0.3s ease-in-out;
+	}
+	#middle{
+		opacity: 1;
+		transition: opacity 0.3s ease-in-out;
 	}
 	
     .open #bottom {

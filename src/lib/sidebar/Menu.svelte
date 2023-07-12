@@ -1,16 +1,21 @@
 <script lang="ts">
+    import { artists, tags } from "$lib/data/parser";
+    type topics = "artist"|"genre"
+    export let topic:topics;
+    const options = topic==="artist" ? artists:tags;
+
 </script>
 
 <div>
-    Amogus
+    Amogus<br>
+    {#each options as option}
+        <a href="{option}">{option}</a><br>
+    {/each}
 </div>
 
 <style>
     div{
         color: red;
-        min-height: 250px;
-        min-width: 250px;
-        max-width: 250px;
-        background-color: yellow;
+        background-color: #1b1b1b;
     }
 </style>

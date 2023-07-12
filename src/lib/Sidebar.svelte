@@ -12,3 +12,10 @@
         <Menu/>
     </main>
 {/if}
+
+<style>
+    main{
+        position: absolute;
+        z-index: 69420;
+    }
+</style>
