@@ -1,6 +1,14 @@
 <script lang="ts">
-     import Navbar from "../lib/Navbar.svelte";
+     import Sidebar from "$lib/sidebar/Sidebar.svelte";
 </script>
 
-<Navbar/>
-<slot/>
+<Sidebar/>
+<div>
+     <slot/>
+</div>
+
+<style>
+     div{
+          padding: 3vmin;
+     }
+</style>
