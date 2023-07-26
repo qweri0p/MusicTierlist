@@ -40,7 +40,6 @@
         "tags": [
             "club",
             "dreamcatalogue",
-            "dance",
             "dreampunk"
         ],
         "realartists": [
@@ -472,6 +471,167 @@
         "realartists": [
             "hke",
             "telepath"
+        ]
+    },
+    {
+        "name": "I Am Not Chesumasuta",
+        "artist": "チェスマスター",
+        "image": "https://f4.bcbits.com/img/a3981540570_10.jpg",
+        "description": "incredible work on this final chesumasuta album. this is one of the most experimental releases from hke and after this i want more.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/i-am-not-chesumasuta",
+        "tags": [
+            "dreamcatalogue",
+            "ambient",
+            "flap"
+        ],
+        "realartists": [
+            "hke"
+        ]
+    },
+    {
+        "name": "Normie Filter",
+        "artist": "Black Banshee x may :3",
+        "image": "https://f4.bcbits.com/img/a1967960361_10.jpg",
+        "description": "if this triggers you, get filtered. shima and may prove with this record that flap still hangs on, even if barely.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/normie-filter",
+        "tags": [
+            "dreamcatalogue",
+            "flap"
+        ],
+        "realartists": [
+            "shima33",
+            "may-3"
+        ]
+    },
+    {
+        "name": "Mahakala",
+        "artist": "Chungking Mansions",
+        "image": "https://f4.bcbits.com/img/a1985011652_10.jpg",
+        "description": "bitcrushed to hell samples on this one. still a fire release.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/mahakala",
+        "tags": [
+            "dreamcatalogue",
+            "hardvapour",
+            "ambient"
+        ],
+        "realartists": [
+            "chungkingmansions"
+        ]
+    },
+    {
+        "name": "Hypnorave",
+        "artist": "Pixelord",
+        "image": "https://f4.bcbits.com/img/a2982384033_10.jpg",
+        "description": "sometimes extremely harsh, sometimes sad almost melancholic, always fire.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/hypnorave",
+        "tags": [
+            "dreamcatalogue",
+            "hardvapour",
+            "club"
+        ],
+        "realartists": [
+            "pixelord"
+        ]
+    },
+    {
+        "name": "Azure",
+        "artist": "G a t e w a y",
+        "image": "https://f4.bcbits.com/img/a3978585171_10.jpg",
+        "description": "nicol shows some incredible ambient synth work on this 2 hour long release. tied with \"Firmament\" as my favorite release from the gateway project.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/azure",
+        "tags": [
+            "dreamcatalogue",
+            "ambient",
+            "slushwave"
+        ],
+        "realartists": [
+            "inertiaeyes"
+        ]
+    },
+    {
+        "name": "Vaporwave Is Dead",
+        "artist": "Sandtimer",
+        "image": "https://f4.bcbits.com/img/a0241929216_10.jpg",
+        "description": "vaporwave is dead. long live vaporhell.\n",
+        "bandcamp": "https://dreamcatalogue.bandcamp.com/album/vaporwave-is-dead",
+        "tags": [
+            "dreamcatalogue",
+            "hardvapour"
+        ],
+        "realartists": [
+            "hke"
+        ]
+    },
+    {
+        "name": "New Tokyo Blue Mood 2",
+        "artist": "Subaeris",
+        "image": "https://f4.bcbits.com/img/a0151071815_10.jpg",
+        "description": "the incredible sequel to new tokyo blue mood 1. this one goes in a completely different direction. instead of being busy and noisy, this album is clean and barren.\n",
+        "bandcamp": "https://subaeris.bandcamp.com/album/new-tokyo-blue-mood-2",
+        "tags": [
+            "dreamcatalogue",
+            "garage",
+            "dreampunk"
+        ],
+        "realartists": [
+            "hke"
+        ]
+    },
+    {
+        "name": "1992",
+        "artist": "CMD094",
+        "image": "https://f4.bcbits.com/img/a2711163622_10.jpg",
+        "description": "being homesick for a freezeframe of the end of the world by nuclear detonation. that's the mood i get from this incredible record.\n",
+        "bandcamp": "https://purelifetapes.bandcamp.com/album/1992",
+        "tags": [
+            "dreampunk",
+            "ambient",
+            "melancholy"
+        ],
+        "realartists": [
+            "cmd094"
+        ]
+    },
+    {
+        "name": "EMULATOR",
+        "artist": "PURE LIFE",
+        "image": "https://f4.bcbits.com/img/a2479477058_10.jpg",
+        "description": "if the \"PURE PLAZA\" is constantly bumping music like this, i would 100% stay there as long as i could.\n",
+        "bandcamp": "https://purelifetapes.bandcamp.com/album/emulator",
+        "tags": [
+            "dnb",
+            "jungle"
+        ],
+        "realartists": [
+            "purelife"
+        ]
+    },
+    {
+        "name": "BUMPS 'N' BREAKS",
+        "artist": "BAKGROUND",
+        "image": "https://f4.bcbits.com/img/a3989089931_10.jpg",
+        "description": "the cover says all that needs to be said. music that goes hard while being completely alone, somewhat soothing but also not.\n",
+        "bandcamp": "https://purelifetapes.bandcamp.com/album/bumps-n-breaks",
+        "tags": [
+            "dnb",
+            "jungle"
+        ],
+        "realartists": [
+            "bakground"
+        ]
+    },
+    {
+        "name": "Memory Card",
+        "artist": "BAKGROUND",
+        "image": "https://f4.bcbits.com/img/a2669526436_10.jpg",
+        "description": "losing yourself in odd retro video game menus you have no clue how to navigate is such a mood that i have to call this amazing.\n",
+        "bandcamp": "https://purelifetapes.bandcamp.com/album/memory-card",
+        "tags": [
+            "dreampunk",
+            "ambient"
+        ],
+        "realartists": [
+            "bakground"
         ]
     }
 ]
